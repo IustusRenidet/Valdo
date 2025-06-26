@@ -1,0 +1,19 @@
+{
+  "name": "valdo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "expo": "^48.0.0",
+    "react": "18.0.0",
+    "react-native": "0.71.6",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/native-stack": "^6.9.12",
+    "firebase": "^9.23.0"
+  },
+  "main": "node_modules/expo/AppEntry.js"
+}
